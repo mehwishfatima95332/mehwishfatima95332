@@ -18,7 +18,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ══════════════════════════════════════════════════ -->
 <!--              ABOUT ME + CODING GIF                -->
@@ -330,7 +330,7 @@ Infrastructure · Automation · Cybersecurity · Cloud
 > *"At DigiTech Solutions, we don't just deliver services — we build partnerships.*
 > *We believe in the power of technology to transform businesses and lives."*
 >
-> — **Mehwish Fatima**, CEO & Founder 🚀
+> — **Mehwish Fatima**, Founder & CEO  
 
 </div>
 
@@ -348,32 +348,12 @@ Infrastructure · Automation · Cybersecurity · Cloud
 <!--                CONNECT SECTION                    -->
 <!-- ══════════════════════════════════════════════════ -->
 
-## 🌐 &nbsp; Let's Connect
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=600&lines=🤖+Need+AI+for+your+Business%3F+Let's+Talk!;💻+Looking+for+Web+%2F+SaaS+Solution%3F;📊+Want+Data-Driven+Insights%3F;🚀+Ready+to+Scale+with+Technology%3F" alt="CTA"/>
-
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=6600ff&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐;Don%27t+forget+to+star!;Let%27s+build+something+amazing+together!+🚀"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=MehwishFatima&style=for-the-badge&color=6600ff&label=Profile+Views"/>
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════ -->
-<!--                    FOOTER                         -->
-<!-- ══════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=6600ff&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+⭐+Don't+forget+to+star!;Let's+build+something+amazing+together!+🚀" alt="Footer"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ccff,30:6600ff,70:302b63,100:0f0c29&height=140&section=footer&text=Mehwish%20Fatima%20%7C%20AI%20Engineer%20%26%20CEO&fontSize=18&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ccff,100:0f0c29&height=120&section=footer"/>
 
 </div>
